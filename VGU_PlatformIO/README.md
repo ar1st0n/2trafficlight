@@ -1,3 +1,11 @@
+- Ngo Duc Minh Khoa (10422036) 
+- Pham Luu Minh Nhu (10422063)
+- Dang Phan Khanh Linh (10422106)
+- Le Minh Bao Ngoc (10422054)
+- Tran Minh Hieu (10422029)
+- Tran Nguyen Kim (10422042)
+Nguyen Phuc Bao (10422014)
+
 # Espressif 32: development platform for [PlatformIO](https://platformio.org)
 
 [![Build Status](https://github.com/platformio/platform-espressif32/workflows/Examples/badge.svg)](https://github.com/platformio/platform-espressif32/actions)
